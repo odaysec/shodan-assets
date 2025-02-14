@@ -1,0 +1,8 @@
+reports.apps.mil
+manage.protection.apps.mil
+admin.exchange.apps.mil
+reports.apps.mil
+admin.exchange.apps.mil
+manage.protection.apps.mil
+reports.apps.mil
+admin.exchange.apps.mil

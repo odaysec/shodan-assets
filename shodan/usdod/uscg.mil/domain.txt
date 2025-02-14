@@ -1,0 +1,7 @@
+cgcart.uscg.mil
+ipermstraining.petaluma.uscg.mil
+cgcarttrain.uscg.mil
+cgmix.uscg.mil
+elearning.uscg.mil
+cmguscg.uscg.mil
+cgrri.uscg.mil
