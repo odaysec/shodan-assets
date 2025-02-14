@@ -1,0 +1,9 @@
+distributiongateway-engdev.dealogic.com
+export.profiles.dealogic.com
+services.dealogic.com
+services.dealogic.com
+dxcerttest.dealogic.com
+ldfdcmail.dealogic.com
+mdsservices.dealogic.com
+uatarc.dealogic.com
+ldfdcmail.dealogic.com

@@ -1,0 +1,3 @@
+sugar-uat.cbre.sk
+sugar-test.cbre.sk
+sugar.cbre.sk
