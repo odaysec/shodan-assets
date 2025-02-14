@@ -1,0 +1,10 @@
+3dns-a.info.gov.hk
+mail.info.gov.fj
+xserve.info.gov.fj
+gateway.info.gov.fj
+mail.info.gov.fj
+gateway.info.gov.fj
+gateway.info.gov.fj
+mail.info.gov.fj
+mail.info.gov.fj
+gateway.info.gov.fj

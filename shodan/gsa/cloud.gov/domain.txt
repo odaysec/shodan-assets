@@ -1,0 +1,13 @@
+cloud.gov.tl
+queue.s2.cloud.gov.mt
+graph.s2.cloud.gov.mt
+vault.s2.cloud.gov.mt
+vault.s3.cloud.gov.mt
+queue.s3.cloud.gov.mt
+table.s2.cloud.gov.mt
+blob.s2.cloud.gov.mt
+graph.s3.cloud.gov.mt
+table.s3.cloud.gov.mt
+vcd-fpo.cloud.gov.bs
+blob.s3.cloud.gov.mt
+mx1.cloud.gov.ge

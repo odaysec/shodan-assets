@@ -1,0 +1,13 @@
+clf.mtncameroon.net
+mymtn.mtncameroon.net
+ns3.mtncameroon.net
+identification.mtncameroon.net
+ssl.mtncameroon.net
+pub-yde-gtm.mtncameroon.net
+mtn1app.mtncameroon.net
+identification.mtncameroon.net
+momo.mtncameroon.net
+pub-dla-gtm.mtncameroon.net
+myregistration.mtncameroon.net
+connectme.mtncameroon.net
+myregistration.mtncameroon.net

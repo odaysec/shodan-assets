@@ -1,0 +1,15 @@
+test-sharedservices.mantech.com
+test-inside.mantech.com
+test-proposallibrary.mantech.com
+ProposalLibrary.mantech.com
+inside.mantech.com
+inside.mantech.com
+sharepointcactest.mantech.com
+sharepointcactest.mantech.com
+my.mantech.com
+vdi2.mantech.com
+test-my.mantech.com
+solutions.mantech.com
+test-officeweb.mantech.com
+test-officeweb.mantech.com
+vdi2.mantech.com

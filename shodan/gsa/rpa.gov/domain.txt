@@ -1,0 +1,6 @@
+rpa.gov.sa
+rpa.gov.sa
+mail.rpa.gov.sa
+smtp.rpa.gov.sa
+rpa.gov.zm
+mail.rpa.gov.sa

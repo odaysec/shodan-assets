@@ -1,0 +1,9 @@
+sandbox.momodeveloper.mtn.co.rw
+proxy.momoapi.mtn.co.rw
+partner.mtn.co.rw
+rem-auth.mtn.co.rw
+partnergui.mtn.co.rw
+mobilemoney.mtn.co.rw
+mtndeveloperapi.portal.mtn.co.rw
+ecare.mtn.co.rw
+ftprw.mtn.co.rw
