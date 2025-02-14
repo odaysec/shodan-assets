@@ -1,0 +1,2 @@
+router1.cedacriovest.it
+relay1.cedacriovest.it
